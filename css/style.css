@@ -1,0 +1,23 @@
+.hidden {
+    display: none;
+}
+
+.visible {
+    display: table-cell;
+}
+
+.highlighted {
+    font-weight: bold;
+}
+
+.abc-div {
+    width: 100%;
+    margin-bottom: 1vw;
+    margin-top: 1vw;
+}
+
+.abc-form {
+    width: 3.2vw;
+    display: inline-block;
+}
+
